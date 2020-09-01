@@ -1,8 +1,8 @@
-This is the step 3 for Web client for UniversityListProjectSEBIT.<br />
-You can run the client AFTER starting up the server on Spring Boot and posting the data with python<br />
-Server (Step 1): https://github.com/emirUlken/UniversityListProjectSEBIT <br />
-Python Scraping (Step 2): https://github.com/emirUlken/Excel_Scrape_With_Python_OSYM_2 <br />
-Project info can be found below.<br />
+This is the step 3 for Web client for UniversityListProjectSEBIT.<br /><br />
+You can run the client AFTER starting up the server on Spring Boot and posting the data with python<br /><br />
+Server (Step 1): https://github.com/emirUlken/UniversityListProjectSEBIT <br /><br />
+Python Scraping (Step 2): https://github.com/emirUlken/Excel_Scrape_With_Python_OSYM_2 <br /><br />
+Project info can be found below.<br /><br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
