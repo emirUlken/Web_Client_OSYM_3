@@ -1,3 +1,7 @@
+This is the step 3 for Web client for UniversityListProjectSEBIT.<br />
+You can run the client AFTER starting up the server on Spring Boot and posting the data with python<br />
+Project info can be found below.<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
