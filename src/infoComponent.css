@@ -1,0 +1,25 @@
+.div-main {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.outer {
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+.redFont2 {
+  color: red;
+}
+.blackFont2 {
+  color: black;
+}
+li {
+  font-size: 2vh;
+  margin-top: 1vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
